@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Charles Odili</h1>
-<h4>A seasoned backend engineer and technology leader from Nigeria. I currently work in Canada for a top-notch Fintech startup delivering an API-backed AI service to millions of customers across Canada, US, & UK through top partner banks</h4>
+A seasoned backend engineer and technology leader from Nigeria. I currently work in Canada for a top-notch Fintech startup delivering an API-backed AI service to millions of customers across Canada, US, & UK through top partner banks
 
 <br />
 
@@ -16,7 +16,7 @@
   - JS tips / tricks - https://medium.com/the-andela-way/this-trick-will-help-you-de-structure-javascript-arrays-in-a-better-cleaner-way-a3bbc39ce226
   - JS functional programming - https://medium.com/@chaluwa/javascript-freestyle-the-power-of-functional-programming-cf920c1e84be
 
-- ⚡ Fun facts: **I was once a bad ass bass player. Much earlier in my tech career, friends called me a 'dedicated server'**
+- ⚡ Fun facts: I was once a bad ass bass player. Much earlier in my tech career, friends called me a 'dedicated server'
 - ⚡ Watch out: I mentor engineers and programs in [TalentQL](https://pipeline.talentql.com/). I once published [a Java title](https://www.packtpub.com/product/extgwt-rich-internet-application-cookbook/9781849515184) and might be working on something for cloud or distributtes systems in the near future
 
 <br />

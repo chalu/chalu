@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Charles Odili</h1>
-A seasoned backend engineer and technology leader from Nigeria. I currently work in Canada for a top-notch Fintech startup delivering an API-backed AI service to millions of customers across Canada, US, & UK through top partner banks
+A seasoned backend engineer and technology leader from Nigeria. I currently work in Canada for a top-notch Fintech startup delivering an API-backed AI service to millions of customers across Canada, US, & UK through top partner banks. I am a technology, product and people builder (kindly see my LinkedIn recommendations for some hints). 
 
 <br />
 

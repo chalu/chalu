@@ -3,7 +3,7 @@ A seasoned backend engineer and technology leader from Nigeria. I currently work
 
 <br />
 
-- 💬 Ask me about **Backends, APIs, AWS, Python,, Javascript/Typescript, Design patterns, Team leadership, Developer Communities, Mentorship**
+- 💬 Ask me about **Backends, REST APIs, Python, Javascript, Typescript, CI/CD, Team leadership, Developer Communities, Mentorship**
 
 - 📫 How to reach me **chaluwa[at]gmail.com**
 
@@ -12,11 +12,10 @@ A seasoned backend engineer and technology leader from Nigeria. I currently work
   - DevOps & CI/CD - https://earthly.dev/blog/ci-vs-cd/
   - Frontend web apps & performance - https://blog.logrocket.com/comlink-web-workers-match-made-in-heaven/
   - JS tips / tricks - https://medium.com/the-andela-way/this-trick-will-help-you-de-structure-javascript-arrays-in-a-better-cleaner-way-a3bbc39ce226
-  - JS functional programming - https://medium.com/@chaluwa/javascript-freestyle-the-power-of-functional-programming-cf920c1e84be
 
 - ⚡ Fun facts: I was once a bad ass bass player. Much earlier in my tech career, friends called me a 'dedicated server'
 - ⚡ Watch out: I mentor engineers and programs in [TalentQL](https://pipeline.talentql.com/).
-- ⚡ I once published [a Java title](https://www.packtpub.com/product/extgwt-rich-internet-application-cookbook/9781849515184) and might be working on something for cloud or distributtes systems in the near future
+- ⚡ I am a published author. Back in 2012, I published [a Java title](https://www.packtpub.com/product/extgwt-rich-internet-application-cookbook/9781849515184) and might be working on something for cloud or distributted systems in the near future
 
 <br />
 <h3 align="left">Connect with me:</h3>

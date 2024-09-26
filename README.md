@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Charles Odili</h1>
-A seasoned backend engineer and technology leader from Nigeria. I currently work in Canada for a top-notch Fintech startup delivering an API-backed AI service to millions of customers across Canada, US, & UK through top partner banks. I am a technology, product and people builder (kindly see my LinkedIn recommendations for some hints). 
+A seasoned backend-heavy Snr Fullsatck Software Sngineer, Engineering Manager, and Snr Technical Program Manager from Nigeria. I currently work in Canada for a top-notch Fintech startup delivering an API-backed AI service to millions of customers across Canada, US, & UK through top partner banks. I am a technology, product and people builder (kindly see my LinkedIn recommendations for some hints). 
 
 <br />
 
-- 💬 Ask me about **Backends, REST APIs, Python, Javascript, Typescript, CI/CD, Team leadership, Developer Communities, Mentorship**
+- 💬 Ask me about **Backends, REST APIs, OpenAPI, Javascript, Typescript, NodeJS, Python, Docker, CI/CD, Team leadership, Developer Education & Growth, Developer Communities/Programs, Mentorship**
 
 - 📫 How to reach me **chaluwa[at]gmail.com**
 

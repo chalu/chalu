@@ -25,7 +25,7 @@ I'm a technology, product and people builder (my [LinkedIn recommendations](http
 - ⚡ Fun facts:
   1. I've been called "the father of African developers" — I designed and led large training programs, in partnership with Google and Facebook, that reached 100,000+ African software engineers over five years, moving them from junior to intermediate to senior and certifying around 10,000 of them in web, mobile and cloud technologies.
   2. Earlier in my career, friends called me a "dedicated server". Once I'm faced with a problem, it gets crushed without distraction.
-  3. I was once a bad-ass bass player. I [still play](https://www.youtube.com/watch?v=vyuYSgSpjvc) sometimes.
+  3. I was once a bad-ass bass player. I [still play](https://www.youtube.com/watch?v=f587GTn5LN0) sometimes.
 
 <br />
 
@@ -35,6 +35,3 @@ I'm a technology, product and people builder (my [LinkedIn recommendations](http
 <a href="https://linkedin.com/in/charlesodili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlesodili" height="30" width="40" /></a>
 <a href="https://medium.com/@chaluwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chaluwa" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chalu&show_icons=true&locale=en&layout=compact" alt="chalu" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chalu&show_icons=true&locale=en" alt="chalu" /></p>
